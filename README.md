@@ -6,7 +6,5 @@
 
 #修改完之后，记得执行
 
-'''
 composer update
-'''
 
