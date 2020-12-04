@@ -1,0 +1,29 @@
+{
+    "name": "zhao/test",
+    "description": "This is test project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhao",
+            "email": "gy23rm@163.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Zhao\\Test\\":"./src/"
+        }
+    },
+    "autoload": {
+
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.2",
+        "doctrine/dbal": "^2.10",
+        "monolog/monolog": "^2.1",
+        "phpoffice/phpexcel": "^1.8"
+    },
+    "require": {
+
+    }
+}
